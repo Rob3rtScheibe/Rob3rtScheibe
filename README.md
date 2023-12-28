@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Scheibe
 - 👀 I’m interested in get expirience
-- 🌱 I’m currently learning HTML, CSS and JS
+- 📖 I’m currently learning HTML, CSS and JS
 - 📫 Contact me at scheiberob3rt@gmail.com
 
 <!---
